@@ -1,0 +1,20 @@
+{
+  "short_name": "证券习题",
+  "name": "证券从业资格习题练习",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2666/2666505.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2666/2666505.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f8fafc"
+}
